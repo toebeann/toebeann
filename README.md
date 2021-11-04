@@ -1,8 +1,8 @@
 ### Tobey Blaber is a software developer specialising in games and the web
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=toebeann&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="Tobey Blaber's GitHub stats" width="53.1%" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img width="44.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toebeann&layout=compact&theme=dark&hide_border=true" alt="Tobey Blaber's most used programming languages on GitHub" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=toebeann&show_icons=true&count_private=true&theme=omni&hide_border=true" alt="Tobey Blaber's GitHub stats" width="53.1%" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img width="44.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toebeann&layout=compact&theme=omni&hide_border=true" alt="Tobey Blaber's most used programming languages on GitHub" /></a>
 </p>
 
 - 😻 Passionate about game development & engaging user experiences
@@ -15,8 +15,8 @@
 
 #### Popular repositories and contributions
 <p align="center">
-  <a href="https://github.com/toebeann/SnapBuilder" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=SnapBuilder&theme=dark&hide_border=true" /></a>
-  <a href="https://github.com/toebeann/VersionChecker" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=VersionChecker&theme=dark&hide_border=true" /></a>
-  <a href="https://github.com/SubnauticaModding/QModManager" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=QModManager&theme=dark&hide_border=true&show_owner=true" /></a>
-  <a href="https://github.com/SubnauticaModding/SMLHelper" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=SMLHelper&theme=dark&hide_border=true&show_owner=true" /></a>
+  <a href="https://github.com/toebeann/SnapBuilder" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=SnapBuilder&theme=omni&hide_border=true" /></a>
+  <a href="https://github.com/toebeann/VersionChecker" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=VersionChecker&theme=omni&hide_border=true" /></a>
+  <a href="https://github.com/SubnauticaModding/QModManager" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=QModManager&theme=omni&hide_border=true&show_owner=true" /></a>
+  <a href="https://github.com/SubnauticaModding/SMLHelper" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=SMLHelper&theme=omni&hide_border=true&show_owner=true" /></a>
 </p>
