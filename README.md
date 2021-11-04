@@ -15,8 +15,8 @@
 
 #### Popular repositories and contributions
 <p align="center">
-  <a href="https://github.com/SubnauticaModding/QModManager" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=QModManager&theme=dark&hide_border=true&show_owner=true" /></a>
-  <a href="https://github.com/SubnauticaModding/SMLHelper" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=SMLHelper&theme=dark&hide_border=true&show_owner=true" /></a>
   <a href="https://github.com/toebeann/SnapBuilder" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=SnapBuilder&theme=dark&hide_border=true" /></a>
   <a href="https://github.com/toebeann/VersionChecker" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=VersionChecker&theme=dark&hide_border=true" /></a>
+  <a href="https://github.com/SubnauticaModding/QModManager" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=QModManager&theme=dark&hide_border=true&show_owner=true" /></a>
+  <a href="https://github.com/SubnauticaModding/SMLHelper" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=SMLHelper&theme=dark&hide_border=true&show_owner=true" /></a>
 </p>
