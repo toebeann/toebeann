@@ -15,8 +15,10 @@
 
 #### Popular repositories and contributions
 <p align="center">
-  <a href="https://github.com/toebeann/SnapBuilder" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=SnapBuilder&theme=omni&hide_border=true" /></a>
-  <a href="https://github.com/toebeann/VersionChecker" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=VersionChecker&theme=omni&hide_border=true" /></a>
-  <a href="https://github.com/SubnauticaModding/QModManager" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=QModManager&theme=omni&hide_border=true&show_owner=true" /></a>
-  <a href="https://github.com/SubnauticaModding/SMLHelper" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=SMLHelper&theme=omni&hide_border=true&show_owner=true" /></a>
+  <a href="https://github.com/toebeann/SnapBuilder" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=SnapBuilder&theme=omni&hide_border=true" alt="SnapBuilder by toebeann on GitHub" /></a>
+  <a href="https://github.com/toebeann/VersionChecker" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=VersionChecker&theme=omni&hide_border=true" alt="VersionChecker by toebeann on GitHub" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/SubnauticaModding/QModManager" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=QModManager&theme=omni&hide_border=true&show_owner=true" alt="QModManager by SubnauticaModding on GitHub" /></a>
+  <a href="https://github.com/SubnauticaModding/SMLHelper" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=SMLHelper&theme=omni&hide_border=true&show_owner=true" alt="SMLHelper by SubnauticaModding on GitHub" /></a>
 </p>
