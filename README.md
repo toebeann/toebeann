@@ -7,7 +7,6 @@
 
 - 😻 Passionate about game development & engaging user experiences
 - 🚀 Working on a top secret closed-sourced project, coming to a Twitch broadcast near you, soon!
-- 🧑‍🎓 Currently wrapping up the final year of BSc Games Programming (Hons) at Goldsmiths in London, UK
 - 🤼 Collaborated on popular Unity modding projects with <a href="https://github.com/SubnauticaModding" target="_blank">@SubnauticaModding</a>
 - 🏳️‍🌈 Pronouns: They/them
 - 💬 Ask me about backend API development, AWS, C# reflection, Unity modding
