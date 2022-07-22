@@ -21,3 +21,6 @@
   <a href="https://github.com/SubnauticaModding/QModManager" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=QModManager&hide_border=true&theme=omni&show_owner=true" alt="QModManager by SubnauticaModding on GitHub" /></a>
   <a href="https://github.com/SubnauticaModding/SMLHelper" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=SMLHelper&hide_border=true&theme=omni&show_owner=true" alt="SMLHelper by SubnauticaModding on GitHub" /></a>
 </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=toebeann&theme=dracula&column=-1&rank=-C,-B&no-frame=true&margin-w=4&margin-h=4" alt="Trophies" /></a>
+</p>
