@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=toebeann&show_icons=true&count_private=true&hide_border=true&theme=omni" alt="Tobey Blaber's GitHub stats" width="53.1%" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img width="44.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toebeann&layout=compact&hide_border=true&theme=omni" alt="Tobey Blaber's most used programming languages on GitHub" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img width="44.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toebeann&layout=compact&hide_border=true&theme=omni&langs_count=10" alt="Tobey Blaber's most used programming languages on GitHub" /></a>
 </p>
 
 - 😻 Passionate about game development & engaging user experiences
