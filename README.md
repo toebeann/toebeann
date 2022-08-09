@@ -6,7 +6,7 @@
 </p>
 
 - 😻 Passionate about game development & engaging user experiences
-- 🚀 Working on a top secret closed-sourced project, coming to a Twitch broadcast near you, soon!
+- 🚀 Working on a top secret project, coming to a Twitch broadcast near you, soon!
 - 🤼 Collaborated on popular Unity modding projects with <a href="https://github.com/SubnauticaModding" target="_blank">@SubnauticaModding</a>
 - 🏳️‍🌈 Pronouns: They/them
 - 💬 Ask me about backend API development, AWS, C# reflection, Unity modding
@@ -15,7 +15,7 @@
 #### Popular repositories and contributions
 <p align="center">
   <a href="https://github.com/toebeann/SnapBuilder" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=SnapBuilder&hide_border=true&theme=omni" alt="SnapBuilder by toebeann on GitHub" /></a>
-  <a href="https://github.com/toebeann/VersionChecker" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=VersionChecker&hide_border=true&theme=omni" alt="VersionChecker by toebeann on GitHub" /></a>
+  <a href="https://github.com/procedure-rpc/procedure.js" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=procedure-rpc&repo=procedure.js&theme=omni&hide_border=true" alt="procedure.js by Procedure RPC on GitHub" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/SubnauticaModding/QModManager" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=QModManager&hide_border=true&theme=omni&show_owner=true" alt="QModManager by SubnauticaModding on GitHub" /></a>
