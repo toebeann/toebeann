@@ -14,12 +14,16 @@
 
 #### Popular repositories and contributions
 <p align="center">
-  <a href="https://github.com/toebeann/SnapBuilder" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=SnapBuilder&theme=omni&hide_border=true" alt="SnapBuilder by toebeann on GitHub" /></a>
-  <a href="https://github.com/procedure-rpc/procedure.js" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=procedure-rpc&repo=procedure.js&theme=omni&hide_border=true&show_owner=true" alt="procedure.js by Procedure RPC on GitHub" /></a>
+  <a href="https://github.com/toebeann/BepInEx.Subnautica" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=BepInEx.Subnautica&theme=omni&hide_border=true" alt="Tobey's BepInEx Pack for Subnautica, by toebeann on GitHub" /></a>
+  <a href="https://github.com/toebeann/gib" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=gib&theme=omni&hide_border=true&show_owner=true" alt="gib: a deno script for automating the installation of BepInEx, by toebeann on GitHub" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/SubnauticaModding/QModManager" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=QModManager&theme=omni&hide_border=true&show_owner=true" alt="QModManager by SubnauticaModding on GitHub" /></a>
-  <a href="https://github.com/SubnauticaModding/SMLHelper" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=SMLHelper&theme=omni&hide_border=true&show_owner=true" alt="SMLHelper by SubnauticaModding on GitHub" /></a>
+  <a href="https://github.com/toebeann/SnapBuilder" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toebeann&repo=SnapBuilder&theme=omni&hide_border=true" alt="SnapBuilder: a snap-to-grid mod for Subnautica, by toebeann on GitHub" /></a>
+  <a href="https://github.com/procedure-rpc/procedure.js" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=procedure-rpc&repo=procedure.js&theme=omni&hide_border=true&show_owner=true" alt="procedure.js: a simple RPC framework for Node.js, by Procedure RPC on GitHub" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/SubnauticaModding/QModManager" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=QModManager&theme=omni&hide_border=true&show_owner=true" alt="QModManager: the legacy mod loader for Subnautica, by SubnauticaModding on GitHub" /></a>
+  <a href="https://github.com/SubnauticaModding/Nautilus" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=Nautilus&theme=omni&hide_border=true&show_owner=true" alt="Nautilus: a popular modding library for Subnautica, by SubnauticaModding on GitHub" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=toebeann&theme=dracula&column=-1&rank=-C&no-frame=true&margin-w=4&margin-h=4" alt="Trophies" /></a>
