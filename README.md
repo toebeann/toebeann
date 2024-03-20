@@ -6,7 +6,6 @@
 </p>
 
 - 😻 Passionate about game development & engaging user experiences
-- 🚀 Working on a top secret project, coming to a Twitch broadcast near you, soon!
 - 🤼 Collaborated on popular Unity modding projects with <a href="https://github.com/SubnauticaModding" target="_blank">@SubnauticaModding</a>
 - 🏳️‍🌈 Pronouns: any/all
 - 💬 Ask me about backend API development, RPC, Node.js, C# reflection, Unity modding
