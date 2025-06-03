@@ -6,7 +6,7 @@
 </p>
 
 - 😻 Passionate about game development & engaging user experiences
-- 🚀 Over 2.3 million unique downloads on [Nexus Mods](https://www.nexusmods.com/users/83851883?tab=user+files)!
+- 🚀 Over 2.3 million unique downloads on [Nexus Mods](https://next.nexusmods.com/profile/toebeann/mods)!
 - ⛑️ Maintains BepInEx packs, guides and installation tools for multiple games across multiple operating systems
 - 🤼 Collaborated on popular Unity modding projects with <a href="https://github.com/SubnauticaModding" target="_blank">@SubnauticaModding</a>
 - 🏳️‍🌈 Pronouns: any/all
