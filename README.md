@@ -1,4 +1,4 @@
-### Tobey is a software developer specialising in games and the web
+### Tobey is a Software Developer specialising in Games, Features, Tools UI & Web
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=toebeann&show_icons=true&count_private=true&theme=omni&hide_border=true" alt="Tobey Blaber's GitHub stats" width="53.1%" /></a>
