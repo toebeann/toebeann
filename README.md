@@ -28,7 +28,7 @@
   <a href="https://github.com/SubnauticaModding/Nautilus" target="_blank"><img align="center" src="profile/pin-SubnauticaModding-Nautilus.svg" alt="Nautilus: the Subnautica Modding API (formerly known as SMLHelper), by SubnauticaModding on GitHub" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/toebeann/UnityAudio" target="_blank"><img src="profile/pin-toebeann-Tobey.UnityAudio.svg" alt="Tobey.UnityAudio: a universal BepInEx patcher to enable/disable Unity's built-in audio, by toebeann on GitHub" /></a>
+  <a href="https://github.com/toebeann/Tobey.UnityAudio" target="_blank"><img src="profile/pin-toebeann-Tobey.UnityAudio.svg" alt="Tobey.UnityAudio: a universal BepInEx patcher to enable/disable Unity's built-in audio, by toebeann on GitHub" /></a>
   <a href="https://github.com/SubnauticaModding/QModManager" target="_blank"><img src="profile/pin-SubnauticaModding-QModManager.svg" alt="QModManager: the legacy mod loader for Subnautica, by SubnauticaModding on GitHub" /></a>
 </p>
 <p align="center">
