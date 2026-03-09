@@ -27,5 +27,5 @@
   <a href="https://github.com/SubnauticaModding/Nautilus" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubnauticaModding&repo=Nautilus&theme=omni&hide_border=true&show_owner=true" alt="Nautilus: a popular modding library for Subnautica, by SubnauticaModding on GitHub" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=toebeann&theme=dracula&column=-1&rank=-C&no-frame=true&margin-w=4&margin-h=4" alt="Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://gh-trophy.cdnsoft.net/?username=toebeann&theme=dracula&column=-1&rank=-C&no-frame=true&margin-w=4&margin-h=4" alt="Trophies" /></a>
 </p>
