@@ -43,7 +43,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=toebeann&repo=BepInEx.Subnautica&theme=omni&hide_border=true
+          options: username=toebeann&repo=gib&theme=omni&hide_border=true
           path: profile/pin-toebeann-gib.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
