@@ -25,11 +25,11 @@
 </p>
 <p align="center">
   <a href="https://github.com/toebeann/SnapBuilder" target="_blank"><img align="center" src="profile/pin-toebeann-SnapBuilder.svg" alt="SnapBuilder: a snap-to-grid mod for Subnautica, by toebeann on GitHub" /></a>
-  <a href="https://github.com/procedure-rpc/procedure.js" target="_blank"><img align="center" src="profile/pin-toebeann-Tobey.UnityAudio.svg" alt="Tobey.UnityAudio: a universal BepInEx patcher to enable/disable Unity's built-in audio, by toebeann on GitHub" /></a>
+  <a href="https://github.com/SubnauticaModding/Nautilus" target="_blank"><img align="center" src="profile/pin-SubnauticaModding-Nautilus.svg" alt="Nautilus: the Subnautica Modding API (formerly known as SMLHelper), by SubnauticaModding on GitHub" /></a>
 </p>
 <p align="center">
+  <a href="https://github.com/toebeann/UnityAudio" target="_blank"><img src="profile/pin-toebeann-Tobey.UnityAudio.svg" alt="Tobey.UnityAudio: a universal BepInEx patcher to enable/disable Unity's built-in audio, by toebeann on GitHub" /></a>
   <a href="https://github.com/SubnauticaModding/QModManager" target="_blank"><img src="profile/pin-SubnauticaModding-QModManager.svg" alt="QModManager: the legacy mod loader for Subnautica, by SubnauticaModding on GitHub" /></a>
-  <a href="https://github.com/SubnauticaModding/Nautilus" target="_blank"><img src="profile/pin-SubnauticaModding-Nautilus.svg" alt="Nautilus: the Subnautica Modding API (formerly known as SMLHelper), by SubnauticaModding on GitHub" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://gh-trophy.cdnsoft.net/?username=toebeann&theme=dracula&column=-1&rank=-C&no-frame=true&margin-w=4&margin-h=4" alt="Trophies" /></a>
