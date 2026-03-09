@@ -55,12 +55,12 @@ jobs:
           path: profile/pin-toebeann-SnapBuilder.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card for procedure-rpc/procedure.js
+      - name: Generate pin card for toebeann/Tobey.UnityAudio
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=procedure-rpc&repo=procedure.js&theme=omni&hide_border=true&show_owner=true
-          path: profile/pin-procedure-rpc-procedure.js.svg
+          options: username=toebeann&repo=Tobey.UnityAudio&theme=omni&hide_border=true&show_owner=true
+          path: profile/pin-toebeann-Tobey.UnityAudio.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for SubnauticaModding/QModManager
