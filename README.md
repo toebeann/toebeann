@@ -6,11 +6,11 @@
 </p>
 
 - 😻 Passionate about game development & engaging user experiences
-- 🚀 Over 2.5 million unique downloads on
+- 🚀 Over 3 million unique downloads on
   [Nexus Mods](https://next.nexusmods.com/profile/toebeann/mods)!
 - ⛑️ Maintains BepInEx packs, guides and installation tools for multiple games
   across multiple operating systems
-- 🤼 Collaborated on popular Unity modding projects with
+- 🤼 Collaborated on popular Unity modding projects with <a href="https://github.com/BepInEx" target="_blank">@BepInEx</a> and
   <a href="https://github.com/SubnauticaModding" target="_blank">@SubnauticaModding</a>
 - 🏳️‍🌈 Pronouns: he/they
 - 💬 Ask me about API development, bun, Node.js, C# reflection, Unity modding
