@@ -83,7 +83,7 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
-          outpath_path: profile/trophy.svg
+          outpath_path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: dracula
 
@@ -91,6 +91,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add *.svg
           git commit -m "Update README cards" || exit 0
           git push
