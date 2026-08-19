@@ -80,12 +80,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        env:
-          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
+        uses: ryo-ma/github-profile-trophy@v1
         with:
           username: ${{ github.repository_owner }}
-          file: profile/trophy.svg
+          outpath_path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: dracula
 
