@@ -79,14 +79,6 @@ jobs:
           path: profile/pin-SubnauticaModding-Nautilus.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate trophy
-        uses: ryo-ma/github-profile-trophy@master
-        with:
-          username: ${{ github.repository_owner }}
-          outpath_path: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: dracula
-
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
