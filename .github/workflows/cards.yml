@@ -80,7 +80,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate trophy
-        uses: ryo-ma/github-profile-trophy@v1
+        uses: ryo-ma/github-profile-trophy
         with:
           username: ${{ github.repository_owner }}
           outpath_path: profile/trophy.svg
