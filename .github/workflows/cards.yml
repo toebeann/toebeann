@@ -88,7 +88,6 @@ jobs:
           file: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: dracula
-          max-cols: -1
 
       - name: Commit cards
         run: |
