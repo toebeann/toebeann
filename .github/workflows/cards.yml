@@ -81,10 +81,14 @@ jobs:
 
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        env:
+          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
         with:
           username: ${{ github.repository_owner }}
-          output_path: ./profile/trophy.svg
+          file: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          theme: dracula
+          max-cols: -1
 
       - name: Commit cards
         run: |
