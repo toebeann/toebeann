@@ -35,32 +35,32 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=toebeann&repo=BepInEx.Subnautica&theme=omni&hide_border=true
-          path: profile/pin-toebeann-BepInEx.Subnautica.svg
+          options: username=${{ github.repository_owner }}&repo=BepInEx.Subnautica&theme=omni&hide_border=true
+          path: profile/pin-${{ github.repository_owner }}-BepInEx.Subnautica.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for toebeann/gib
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=toebeann&repo=gib&theme=omni&hide_border=true
-          path: profile/pin-toebeann-gib.svg
+          options: username=${{ github.repository_owner }}&repo=gib&theme=omni&hide_border=true
+          path: profile/pin-${{ github.repository_owner }}-gib.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for toebeann/SnapBuilder
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=toebeann&repo=SnapBuilder&theme=omni&hide_border=true
-          path: profile/pin-toebeann-SnapBuilder.svg
+          options: username=${{ github.repository_owner }}&repo=SnapBuilder&theme=omni&hide_border=true
+          path: profile/pin-${{ github.repository_owner }}-SnapBuilder.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for toebeann/Tobey.UnityAudio
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=toebeann&repo=Tobey.UnityAudio&theme=omni&hide_border=true&show_owner=true
-          path: profile/pin-toebeann-Tobey.UnityAudio.svg
+          options: username=${{ github.repository_owner }}&repo=Tobey.UnityAudio&theme=omni&hide_border=true&show_owner=true
+          path: profile/pin-${{ github.repository_owner }}-Tobey.UnityAudio.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card for SubnauticaModding/QModManager
@@ -77,6 +77,13 @@ jobs:
           card: pin
           options: username=SubnauticaModding&repo=Nautilus&theme=omni&hide_border=true&show_owner=true
           path: profile/pin-SubnauticaModding-Nautilus.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophies
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: profile/trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
